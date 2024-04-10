@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nalins99" alt="nalins99" /></a> </p>
 
 - 🔭 I’m currently working on **Agropulse**
+  
+- 🎓 I’m currently working on [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
 
 - 🌱 I’m currently learning **React,Python**
 
